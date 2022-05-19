@@ -1,0 +1,35 @@
+/* COMMON */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100px;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+}
+
+header nav {
+    text-align: right;
+}
+
+.ms_main_menu li {
+    display: inline-block;
+    font-size: 20px;
+}
+.ms_main_menu a {
+    text-decoration: none;
+}
+
+.ms_intro_content {
+    background-color: pink;
+    height: 100%;
+    padding: 10px;
+}
+
+section {
+    padding: 2rem 0;
+}

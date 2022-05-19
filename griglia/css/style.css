@@ -1,0 +1,23 @@
+/* 6 elementi: XS: 1 per riga, md 3 per riga, lg 6 per riga  */
+img {
+    width: 100%;
+}
+
+.bg_lightblue {
+    background-color: lightblue;
+}
+
+.banner_content {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ms_small_container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#custom {
+    background-color: lightgreen;
+}
